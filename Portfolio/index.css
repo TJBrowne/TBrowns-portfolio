@@ -1,5 +1,5 @@
 body {
-    font-family: Helvetica, sans-serif;
+    /* font-family: Helvetica, sans-serif; */
     max-width: 100%;
     /* margin: auto; */
     padding: 15px;
@@ -9,18 +9,13 @@ body {
     /* background-position: center;  */
 }
 h1 {
-    font-family: 'Wendy One', sans-serif;
+    font-family: 'Roboto Slab', serif;
     font-size: 70px;
     color: #D3D3D3;
     text-align: center;
 }
-h2 {
-    font-family: 'Wendy One', sans-serif;
-    font-size: 27px;
-    padding: 5px;
-}
 p {
-    font-family: 'Lora', serif;
+    font-family: 'Oswald', sans-serif;
     font-size: 20px;
     line-height: 28px;
     color: #EEEED1;		
@@ -42,6 +37,7 @@ a {
 }
 /* Style the links */
 .topnav a {
+    font-family: 'Oswald', sans-serif;
     float: left;
     color: #D3D3D3;
     text-align: center;
